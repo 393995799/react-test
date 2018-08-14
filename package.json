@@ -1,7 +1,7 @@
 {
   "name": "react-mobx-antd-demo",
   "version": "1.0.0",
-  "description": "a simple react demo use mobx",
+  "description": "a react project use mobx",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
     "start": "cross-env NODE_ENV=production node start.js"
   },
   "author": "lina",
-  "license": "ISC",
+  "license": "",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "babel-core": "^6.24.1",
